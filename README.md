@@ -1,4 +1,4 @@
-## :raising_hand: About Me
+## ✌️ About Me
 <p> Fullstack Dev in progress along with cyber security and blockchain side quest</p>
 
 ## 🚀 Languages and Tools:
