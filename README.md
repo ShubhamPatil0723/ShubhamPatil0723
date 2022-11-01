@@ -39,10 +39,11 @@
 
 ## HacktoberFest badges
 [![@shubhampatil0723's Holopin board](https://holopin.me/shubhampatil0723)](https://holopin.io/@shubhampatil0723)
+
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/shubhampatil0723/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/ShubhamO723"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/__Shubham0723"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
 <!-- ## ❤ Views and Followers
